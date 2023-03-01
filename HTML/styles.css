@@ -1,0 +1,74 @@
+/*Para el color de las letras*/
+H1{
+   font-size: 12;
+   font-style: initial;
+   background-color: darkred;
+   padding: 20px;
+   color:cornsilk
+}
+
+/*Para el color del cuadro del titulo*/
+nav{
+   background-color: rgba(238, 121, 13, 0.858);
+   width: 100%;
+   list-style-type: none;
+   text-align: center;
+}
+
+
+nav li{
+   display: inline-flex;
+}
+
+/*Para el decorado del texto del titulo*/
+nav a {
+   text-decoration: none;
+   color: palegreen;
+   padding: 10px;
+   width: 150px;
+}
+
+nav li:hover {
+  background-color: purple;
+}
+
+
+body {
+     background: rgba(234, 176, 41, 0.897);
+}
+
+
+P{
+  color: white;
+  width: 500px;
+  border: 1px solid teal;
+}
+
+center {
+    background-image: url(https://www.peakpx.com/es/hd-wallpaper-desktop-kivis)
+    background-repeat repeat-x;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 10;
+}
+
+P{
+  font-style: oblique;
+  font-weight: normal=100;
+}
+
+p{
+  color: black;
+  width: 500px;
+  border: 1px solid teal;
+
+
+}
+
+
+body{
+   border-style: outset;
+   border-color: rgba(205, 31, 18, 0.542);
+   border-width: medium;
+
+}
